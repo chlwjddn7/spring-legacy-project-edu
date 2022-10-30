@@ -1,5 +1,11 @@
 package kr.co.edu.test;
 
+import java.util.HashMap;
+import java.util.List;
+
+import kr.co.edu.util.HtmlCrawlingUtil;
+import kr.co.edu.util.HttpUtil;
+
 public class Test {
 	
 	public static void main(String[] args) {
